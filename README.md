@@ -10,7 +10,6 @@ Azure Resource Manager: Manages Azure resources.
 Steps to Set Up the System:
 
 1. Azure AD Setup
-
 1.1 Set up a new Azure AD instance (if not already present) using the Azure portal.
 - Navigate to the Azure portal.
 - Go to "Azure Active Directory".
