@@ -10,6 +10,7 @@ Azure Resource Manager: Manages Azure resources.
 Steps to Set Up the System:
 
 1. Azure AD Setup
+
 1.1 Set up a new Azure AD instance (if not already present) using the Azure portal.
 - Navigate to the Azure portal.
 - Go to "Azure Active Directory".
@@ -52,6 +53,7 @@ Conclusion
 This automated employee onboarding system simplifies and accelerates the process of integrating new hires into the organization. By leveraging Azure services, the system ensures a consistent and efficient onboarding experience.
 
 License
+
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
 This README provides an overview of the automated employee onboarding system and guides users through the setup and configuration process. For detailed instructions and troubleshooting, please refer to the Azure documentation and the Logic Apps Designer interface.
