@@ -48,11 +48,11 @@ Steps to Set Up the System:
 - Regularly check the Logic Apps run history for any errors or issues.
 - Review Azure AD logs to ensure all operations are completed successfully.
 
-Conclusion
+Conclusion:
 
 This automated employee onboarding system simplifies and accelerates the process of integrating new hires into the organization. By leveraging Azure services, the system ensures a consistent and efficient onboarding experience.
 
-License
+License:
 
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
