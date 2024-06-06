@@ -1,6 +1,9 @@
 # Automated-Employee-Onboarding-System
 This project implements an automated employee onboarding system using various Azure services. The system is designed to streamline the process of adding new hires by integrating Azure AD, Logic Apps, and other Azure resources. Below are the steps and services used to set up this system.
 
+![image](https://github.com/gustavboyd/Automated-Employee-Onboarding-System/assets/41882740/79ee8268-1d3f-4a21-8ddf-62c7ba0aec9e)
+
+
 Azure Services Used
 Azure AD: Manages user identities and access.
 Azure Logic Apps: Automates workflows.
@@ -22,7 +25,7 @@ Steps to Set Up the System:
     - Open the Azure portal.
     - Navigate to "Logic Apps".
     - Create a new Logic App.
-    - Define a trigger event (e.g., an entry in a SharePoint list or an email to a specific mailbox).
+    - Define a trigger event (e.g., an entry in a SharePoint list, an email to a specific mailbox, or an HTTP request).
 
 3. Azure AD User Creation
 
